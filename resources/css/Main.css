@@ -1,0 +1,17 @@
+.welcome {
+    margin-top: 110px;
+    margin-bottom: 110px;
+}
+
+.welcome img {
+    width: 100%;
+}
+
+.welcome .btn-primary-soft {
+    background-color: #eaeefd;
+    color: #335eea;
+}
+
+.welcome .btn-primary-soft:hover {
+    background-color: #f4f6ff;
+}
